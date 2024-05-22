@@ -9,7 +9,6 @@ describe("Result component", () => {
   const closestCities: City[] = [
     { name: "City A", country: "US" },
     { name: "City B", country: "UK" },
-    // Agrega más ciudades según sea necesario
   ];
 
   it("renders the component with nearby cities", () => {
